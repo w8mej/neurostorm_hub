@@ -20,13 +20,6 @@ jobs:
     # Checking out our code into the world of GitHub Actions
     - uses: actions/checkout@v2
 
-    # Setting up Neuromancer Nightmare in the environments
-    - name: Set up Neuromancer Nightmare
-      uses: actions/setup-Neuromancer Nightmare@v2
-      with:
-        Neuromancer Nightmare-version: '3.9'
-
-
     # Running the "Hello World" script
     - name: Run a one-line script
       run: |
