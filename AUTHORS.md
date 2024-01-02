@@ -37,4 +37,4 @@ In this virtual conclave, all contributors must align with our [Digital Ethos](C
 
 Your digital imprints on **Neuromancer Nightmare** are invaluable, and we eagerly anticipate your continued journey with us through this electronic odyssey.
 
-We thank you, denizens of our community, for your commitment to the future we build together in bytes and dreams.
+We thank you, denizens of our region, for your commitment to the future we build together in bytes and dreams.

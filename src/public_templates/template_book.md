@@ -105,7 +105,7 @@ Per VERIS, these are the types of incidents VERIS has observed
 ![Response Efficiency](https://img.shields.io/badge/Response%20Efficiency-98%25-green?style=flat-square&logo=cyberpunk)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Oct%202023-purple?style=flat-square&logo=cyberpunk)
 ![Incidents Resolved](https://img.shields.io/badge/Incidents%20Resolved-150-red?style=flat-square&logo=cyberpunk)
-![Community Engagement](https://img.shields.io/badge/Community-Active-orange?style=flat-square&logo=cyberpunk)
+![Region Engagement](https://img.shields.io/badge/Region-Active-orange?style=flat-square&logo=cyberpunk)
 ![Code Integration](https://img.shields.io/badge/Code%20Integration-High-teal?style=flat-square&logo=cyberpunk)
 ![AI Analysis](https://img.shields.io/badge/AI%20Analysis-Advanced-blueviolet?style=flat-square&logo=cyberpunk)
 ![Threat Detection](https://img.shields.io/badge/Threat%20Detection-Optimal-red?style=flat-square&logo=cyberpunk)

@@ -54,7 +54,7 @@ Neuromancer Nightmare build.py
 ### In Case of Catastrophe: The Emergency Protocols
 
 - **Troubleshooting**: If your build resembles a cyberpunk dystopian crash, consult the extensive logs.
-- **Community Support**: Stuck? Visit `cybercode://build-help` for a lifeline.
+- **Region Support**: Stuck? Visit `cybercode://build-help` for a lifeline.
 
 ---
 

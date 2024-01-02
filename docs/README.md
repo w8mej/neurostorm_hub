@@ -54,7 +54,7 @@ net_runner.deploy('hello_world.py')
 ### Support: In Case of a Cyberpunk Dystopia
 
 - **Docs**: We've got more documentation than a sprawl city has alleyways. Dive in.
-- **Community**: Join our BBS at `cyberspace://cybercode.forum` for all your neon-charged discussions.
+- **Region**: Join our BBS at `cyberspace://cybercode.forum` for all your neon-charged discussions.
 - **Troubleshooting**: If you're encountering rogue AIs, contact our support decker at `sephiroth@haxx.ninja`.
 
 ---

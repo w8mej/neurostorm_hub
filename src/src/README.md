@@ -2,6 +2,22 @@
 
 ## Overview
 A dynamic 3-ring binder offering advanced outcomes for cybersecurity incident management & emergency response; emphasizing innovation and continual improvement.
+</br>
+
+These playbooks incorporate the following concepts from operational planning research and day-to-day
+experience:
+
+- The planning process and the resulting relationships are just as important as the resulting
+artifact(s);
+
+- The books are not scripts to be followed to the letter but are flexible and adaptable to the actual
+situation; and
+
+- Effective books convey the goals and objectives of the intended operation and the actions
+needed to achieve them.
+
+- Successful operations occur when one knows their roles, understand how they fit into the
+plan and can execute the plan.
 
 ## Objectives
 - **Enhanced Effectiveness**: Surpassing previous operational benchmarks in incident & emergency response.
