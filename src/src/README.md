@@ -1,4 +1,4 @@
-# Cybersecurity Playbook - Cover Page
+# Cover Page
 
 ## Overview
 A dynamic 3-ring binder offering advanced outcomes for cybersecurity incident management & emergency response; emphasizing innovation and continual improvement.
