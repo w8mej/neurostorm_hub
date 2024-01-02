@@ -15,7 +15,6 @@ variables:
 before_script:
   # Preparing the digital arsenal before diving into the matrix
   - echo "Entering the cyber realm, Neuromancer Nightmare version: $Neuromancer Nightmare_VERSION"
-  - pip install -r requirements.txt
 
 build:
   stage: build
